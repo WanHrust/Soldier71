@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "SuperIsa",
-"productVersion": "0.1",
+"companyName": "O Brothers",
+"productName": "Soldier72",
+"productVersion": "1",
 "dataUrl": "WebGL.data.unityweb",
 "wasmCodeUrl": "WebGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL.wasm.framework.unityweb",
